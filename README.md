@@ -3,5 +3,5 @@ En este repositorio usted encontrará Material sobre la asignatura de Bioestadí
 
 Unidades de estudio de la asigantura [Generales Bioestadística.pdf](https://github.com/Hen1985/Bioestadistica/files/4103729/Generales.Bioestadistica.pdf)
 
-[S 1 Fundamentos.pdf](https://github.com/Hen1985/Bioestadistica/files/4103652/S.1.Fundamentos.pdf)
+1. [S 1 Fundamentos.pdf](https://github.com/Hen1985/Bioestadistica/files/4103652/S.1.Fundamentos.pdf)
 
