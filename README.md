@@ -10,4 +10,7 @@ Unidades de estudio de la asigantura [Generales Bioestadística.pdf](https://git
 3. [S 3 Visualizaciones.pdf](https://github.com/Hen1985/Bioestadistica/files/4129241/S.3.Visualizaciones.pdf)
 
 En manos de Hans Rosling, los datos cantan. Las tendencias mundiales en salud y economía cobran vida. Y el panorama general del desarrollo global, con algunas noticias sorprendentemente buenas, se enfoca con nitidez.
-https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
+
+ 3.1. https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
+ 
+ 3.2. https://www.ted.com/talks/hans_rosling_insights_on_hiv_in_stunning_data_visuals?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
