@@ -9,4 +9,5 @@ Unidades de estudio de la asigantura [Generales Bioestadística.pdf](https://git
 
 3. [S 3 Visualizaciones.pdf](https://github.com/Hen1985/Bioestadistica/files/4129241/S.3.Visualizaciones.pdf)
 
+A continuación te recomendamos observar, el vídeo titulado "Las mejores estadísticas que has visto", por HANS ROSLING 
 https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
