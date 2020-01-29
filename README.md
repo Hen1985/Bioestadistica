@@ -8,3 +8,5 @@ Unidades de estudio de la asigantura [Generales Bioestadística.pdf](https://git
 2. [S 2 Distribución Frecuencias.pdf](https://github.com/Hen1985/Bioestadistica/files/4123616/S.2.Distribucion.Frecuencias.pdf)
 
 3. [S 3 Visualizaciones.pdf](https://github.com/Hen1985/Bioestadistica/files/4129241/S.3.Visualizaciones.pdf)
+
+https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
