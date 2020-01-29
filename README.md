@@ -6,3 +6,5 @@ Unidades de estudio de la asigantura [Generales Bioestadística.pdf](https://git
 1. [S 1 Fundamentos.pdf](https://github.com/Hen1985/Bioestadistica/files/4103652/S.1.Fundamentos.pdf)
 
 2. [S 2 Distribución Frecuencias.pdf](https://github.com/Hen1985/Bioestadistica/files/4123616/S.2.Distribucion.Frecuencias.pdf)
+
+3. [S 3 Visualizaciones.pdf](https://github.com/Hen1985/Bioestadistica/files/4129241/S.3.Visualizaciones.pdf)
