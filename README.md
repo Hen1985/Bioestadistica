@@ -14,3 +14,5 @@ En manos de Hans Rosling, los datos cantan. Las tendencias mundiales en salud y 
  3.1. https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
  
  3.2. https://www.ted.com/talks/hans_rosling_insights_on_hiv_in_stunning_data_visuals?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
+
+4. [S 4 Medidas de centralidad, posición y dispersión.pdf](https://github.com/Hen1985/Bioestadistica/files/4140382/S.4.Medidas.de.centralidad.posicion.y.dispersion.pdf)
