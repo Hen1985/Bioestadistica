@@ -17,4 +17,5 @@ En manos de Hans Rosling, los datos cantan. Las tendencias mundiales en salud y 
 
 4. [S 4 Medidas de centralidad, posición y dispersión.pdf](https://github.com/Hen1985/Bioestadistica/files/4140382/S.4.Medidas.de.centralidad.posicion.y.dispersion.pdf)
 
-5. [S 5 Introducción a la teoría de estimación.pdf](https://github.com/Hen1985/Bioestadistica/files/4148347/S.5.Introduccion.a.la.teoria.de.estimacion.pdf)
+5. [S 5 Introducción a la teoría de estimación.pdf](https://github.com/Hen1985/Bioestadistica/files/4148475/S.5.Introduccion.a.la.teoria.de.estimacion.pdf)
+
