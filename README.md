@@ -20,3 +20,5 @@ En manos de Hans Rosling, los datos cantan. Las tendencias mundiales en salud y 
 5. [S 5 Introducción a la teoría de estimación.pdf](https://github.com/Hen1985/Bioestadistica/files/4148475/S.5.Introduccion.a.la.teoria.de.estimacion.pdf)
 
 6. [S 6 Distribución normal y T de Student.pdf](https://github.com/Hen1985/Bioestadistica/files/4155231/S.6.Distribucion.normal.y.T.de.Student.pdf)
+
+7. [S 7 Estimación Por Intervalos.pdf](https://github.com/Hen1985/Bioestadistica/files/4182170/S.7.Estimacion.Por.Intervalos.pdf)
